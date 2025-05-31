@@ -1,9 +1,6 @@
 # Dyna-Q+ Demonstration
 
-This program demonstrates Dyna-Q+ agent behavior in Dyna Maze environments, stated by Sutton and Barto (2018) in their book: _Reinforcement Learning: An Introduction_ (second edition). You can find it on page 164-168.
-
-## Video
-[![Video](https://img.youtube.com/vi/k0GZ5xt2Y5Y/hqdefault.jpg)](https://youtu.be/k0GZ5xt2Y5Y)
+This program demonstrates Dyna-Q+ agent behavior in Dyna Maze environments, stated by Sutton and Barto (2018) in their book: _Reinforcement Learning: An Introduction_ (second edition). You can find it on page 164-168. You can also check the video [here](https://youtu.be/k0GZ5xt2Y5Y).
 
 ## Setup
 1. Install Python.
