@@ -1,0 +1,16 @@
+[Source 1]
+https://opengameart.org/content/footsteps-on-different-surfaces (congusbongus, 2021)
+- left.ogg (footsteps/wood/0.ogg)
+- right.ogg (footsteps/wood/1.ogg)
+- up.ogg (footsteps/wood/2.ogg)
+- down.ogg (footsteps/wood/3.ogg)
+
+License:
+Derived from footstep-wood.wav by swuing
+https://freesound.org/people/swuing/sounds/38876/
+
+http://creativecommons.org/licenses/by/3.0/
+
+[Source 2]
+https://opengameart.org/content/plingy-coin (Fupi, 2020)
+- coin.wav
